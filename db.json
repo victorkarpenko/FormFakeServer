@@ -1,0 +1,31 @@
+{
+  "contactInfo" : {
+    "phone": "38093222222",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "name": "Firstname Surname"
+  },
+  "questions" : [
+    {
+      "question": "Lorem ipsum?",
+      "answer": "dolor si amet"
+    },
+    {
+      "question": "Lorem ipsum 2?",
+      "answer": "dolor si amet"
+    },
+    {
+      "question": "Lorem ipsum 3?",
+      "answer": "dolor si amet"
+    },
+    {
+      "question": "Lorem ipsum 4?",
+      "answer": "dolor si amet"
+    }
+  ],
+  "file": {
+    "name": "draft1.docx",
+    "format": "DOCX",
+    "size": 1235434
+  }
+}
